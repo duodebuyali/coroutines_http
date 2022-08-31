@@ -1,0 +1,4 @@
+include ':jetpacklib'
+include ':netlibrary'
+include ':app'
+rootProject.name = "CoroutineNet"
